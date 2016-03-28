@@ -10,10 +10,10 @@
 在线文档，经常被墙
 
 4. 两个github上的扩展
-	- [KLEE extension A] (https://github.com/chyyuu/symexe/tree/master/klee_document)
+	* [KLEE extension A] (https://github.com/chyyuu/symexe/tree/master/klee_document)
 调研了之后有一阵子没有动静了
    
-    	- [KLEE extension B] (https://github.com/muchang/klee-document)
+    	* [KLEE extension B] (https://github.com/muchang/klee-document)
 实现ICSE15上的一篇论文中的搜索算法和将KLEE自动测试用于数据流分析，还在进行中
 	
 5. [F&Q on stack overflow] 
